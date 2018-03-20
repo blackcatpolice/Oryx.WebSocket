@@ -1,0 +1,13 @@
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.deps.json
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.runtimeconfig.json
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.runtimeconfig.dev.json
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.dll
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.pdb
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.dll
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\bin\Debug\netcoreapp2.0\Oryx.WebSocket.pdb
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.csprojResolveAssemblyReference.cache
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.csproj.CoreCompileInputs.cache
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.AssemblyInfoInputs.cache
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.AssemblyInfo.cs
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.dll
+D:\Repos\Xiaxiaopi\Oryx.WebSocket\Oryx.WebSocket.Demo\obj\Debug\netcoreapp2.0\Oryx.WebSocket.Demo.pdb

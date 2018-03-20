@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oryx.WebSocket.Demo", "Oryx.WebSocket.Demo\Oryx.WebSocket.Demo.csproj", "{BA31F238-C2AF-4EA8-AD56-C83149F7D57F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oryx.WebSocket", "Oryx.WebSocket\Oryx.WebSocket.csproj", "{96494915-A18E-4E89-B857-40A6161D8EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA31F238-C2AF-4EA8-AD56-C83149F7D57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA31F238-C2AF-4EA8-AD56-C83149F7D57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA31F238-C2AF-4EA8-AD56-C83149F7D57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA31F238-C2AF-4EA8-AD56-C83149F7D57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96494915-A18E-4E89-B857-40A6161D8EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96494915-A18E-4E89-B857-40A6161D8EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96494915-A18E-4E89-B857-40A6161D8EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96494915-A18E-4E89-B857-40A6161D8EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE53BFF5-5B66-43D5-BB19-E2E6A9823B0E}
+	EndGlobalSection
+EndGlobal
